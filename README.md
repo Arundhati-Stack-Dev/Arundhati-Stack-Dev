@@ -15,5 +15,5 @@ An Aspiring **Mern Stack Developer.**
 
 - 😄 Pronouns - **She.**
 
-- ⚡ Fun fact - **I don't love coffee.**
+- ⚡ Fun fact - **I love exploring new sites.**
 

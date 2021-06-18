@@ -11,7 +11,7 @@ An Aspiring **Mern Stack Developer.**
 
 - 💬 Ask me about - **Anything**
 
-- 📫 Reach me - **www.linkedin.com/in/arundhati-sahani-mern/**
+- 📫 Reach me - **www.linkedin.com/in/arundhati-sahani-reactjs/**
 
 - 😄 Pronouns - **She.**
 

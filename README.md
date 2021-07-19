@@ -5,7 +5,7 @@
 
 An Aspiring **Mern Stack Developer.**
 
-- 🔭 I’m currently focusing on - **ReactJs.**
+- 🔭 I’m currently focusing on - **ReactJs, Redux**
 
 - 🌱 I’m currently learning - **Many things.**
 

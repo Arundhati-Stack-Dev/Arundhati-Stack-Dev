@@ -2,8 +2,7 @@
 
 
 
-
-An Aspiring **Mern Stack Developer.**
+An Aspiring **FrontEnd/UI Developer.**
 
 - 🔭 I’m currently focusing on - **ReactJs, Redux**
 
@@ -11,7 +10,7 @@ An Aspiring **Mern Stack Developer.**
 
 - 💬 Ask me about - **Anything**
 
-- 📫 Reach me - **www.linkedin.com/in/arundhati-sahani-reactjs/**
+- 📫 Reach me - ****
 
 - 😄 Pronouns - **She.**
 
